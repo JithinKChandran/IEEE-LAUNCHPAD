@@ -2,7 +2,7 @@
 
 ### About Me
 
-> From College Of Engineering Thalasesery,IT branch. Do have theoretical knowledge about programming languages like C, Java, Python and SQL
+> From College Of Engineering Thalassery,Information Technology branch. I do have theoretical knowledge about programming languages like C, Java, Python and SQL.Have a strong passion in pursuing cyber security as a profession.
 
 ## Portfolio Highlights
 
